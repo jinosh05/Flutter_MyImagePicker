@@ -5,6 +5,7 @@ import 'package:image_picker/image_picker.dart';
 void main(List<String> args) {
   runApp(MaterialApp(
     home: Newapp(),
+    debugShowCheckedModeBanner: false,
   ));
 }
 
